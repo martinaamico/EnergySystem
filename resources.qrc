@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icone/aggiungi.png</file>
+        <file>icone/carica.png</file>
+        <file>icone/caricafile.png</file>
+        <file>icone/cerca.png</file>
+        <file>icone/elimina.png</file>
+        <file>icone/modifica.png</file>
+        <file>icone/radiazione1.png</file>
+        <file>icone/radiazione2.png</file>
+        <file>icone/radiazione3.png</file>
+        <file>icone/salva.png</file>
+        <file>icone/schematainizio.jpg</file>
+        <file>icone/simula.png</file>
+        <file>icone/sole.png</file>
+        <file>icone/temperatura1.png</file>
+        <file>icone/temperatura2.png</file>
+        <file>icone/temperatura3.png</file>
+        <file>icone/umidita1.png</file>
+        <file>icone/umidita2.png</file>
+        <file>icone/umidita3.png</file>
+        <file>icone/vento.png</file>
+    </qresource>
+</RCC>
